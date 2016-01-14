@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">DunlopTirePsi</string>
+    <string name="action_settings">Settings</string>
+    <string name="alpha13">Front 30, Rear 28</string>
+    <string name="d209gp">Front 30, Rear 28</string>
+    <string name="d211gpa">Front 31, Rear: 190 20, 160 28</string>
+    <string name="d212gp">Front 31, Rear 21</string>
+    <string name="gpapro">Front 31, Rear 20</string>
+    <string name="kr106">Front 31</string>
+    <string name="kr108">Rear superMoto 21, 250gp 28</string>
+    <string name="kr189">Front 110 29, 120 34.5</string>
+    <string name="kr393">Rear 140 29, 190 34.5</string>
+    <string name="kr448">Front 31</string>
+    <string name="kr449">Rear 190 21, 200 21</string>
+    <string name="kr451">Rear 20.5</string>
+    <string name="unbeaten02">Front 30, Rear 28</string>
+    <string name="dulop">Dunlop</string>
+    <string name="coldPsi">Cold Psi:</string>
+    <string name="labelcold">Cold Psi:</string>
+
+</resources>
